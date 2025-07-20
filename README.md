@@ -221,7 +221,7 @@ This project operates under the MIT License - see the [LICENSE](LICENSE) file fo
 █                                                          █
 █  🚀 CampusX © 2025 - Next-Generation Campus Platform     █
 █  ⚡ Powered by Quantum Computing & Neural Networks       █
-█  🔒 Enterprise Security • 🌐 Global Scale • 💚 Open Source █
+█  🔒 Enterprise Security • 🌐 Global Scale                █
 █                                                          █
 ████████████████████████████████████████████████████████████
 ```
